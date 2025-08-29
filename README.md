@@ -1,23 +1,23 @@
 # Professional Biography
 
-Hello! My name is [Your Full Name], and I am currently a [Your Year, e.g., 4th-year] Computer Science student at [Your University]. I am passionate about [briefly describe your focus: e.g., robotics, software engineering, data science, etc.], and I enjoy working on projects that [mention your interests: e.g., solve real-world problems, improve user experience, etc.].
+Hello! My name is Mikhail Nikolaenko, and I am currently a 5th-year] Computer Science student at the University of Cincinnati. I am passionate about AI, data science, software development, and I enjoy working on projects that solve real-world problems.
 
 ---
 
 ## 📫 Contact Information
 
-- **Email:** [yourname@domain.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)  
+- **Email:** nikolamv@mail.uc.edu
+- **LinkedIn:** https://www.linkedin.com/in/mikhail-nikolaenko-b6a442245/
+- **GitHub:** https://github.com/MikhailNikolaenko
 
 ---
 
 ## 💼 Co-op Work Experience
 
 ### Software Engineering Intern  
-**Company:** [Company Name]  
-**Location:** [City, State or Country]  
-**Dates of Employment:** [Month Year – Month Year]  
+**Company:** KisuiTech 
+**Location:** Chiba, Japan  
+**Dates of Employment:** Jan 2025 - Aug 2025 
 
 - **Technical Skills Used:**
   - [List technical skills, e.g., Python, Qt, ROS2, Git, etc.]
