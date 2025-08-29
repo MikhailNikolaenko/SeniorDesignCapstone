@@ -1,6 +1,6 @@
 # Professional Biography
 
-Hello! My name is Mikhail Nikolaenko, and I am currently a 5th-year] Computer Science student at the University of Cincinnati. I am passionate about AI, data science, software development, and I enjoy working on projects that solve real-world problems.
+Hello! My name is Mikhail Nikolaenko, and I am currently a 5th-year Computer Science student at the University of Cincinnati. I am passionate about AI, data science, software development, and I enjoy working on projects that solve real-world problems.
 
 ---
 
